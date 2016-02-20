@@ -4,9 +4,6 @@
  * 
  * Version: $Id: HangMan.java,v 1.1 2015/09/12 21:05:46 $
  * 
- * Revisions: 
- *      Revision 1.1  2013/09/12 21:05:46
- *      Initial Version
  * 
  */
 
